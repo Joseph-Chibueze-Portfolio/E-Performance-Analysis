@@ -39,12 +39,3 @@ I utilized DAX (New Measure) to engineer the following core performance metrics:
 
 ---
 * Joseph Chibueze — Data Analyst.*
-## 🖼️ Project Preview
-![E-commerce Dashboard](insert-your-image-link-here)
-
-> *Click the image above to view the dashboard.*
-
-## Dataset
-
----
-*Developed by Joseph — Data Analyst.*
