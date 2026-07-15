@@ -30,10 +30,10 @@ I utilized DAX (New Measure) to engineer the following core performance metrics:
 
 ## 🔗 How to View My Work
 - The Dashboard: See the "Project Preview" below for a visual snapshot of the project.
-- The Power BI Video: [Download and watch the full E-commerce_Project.video here](E-commerce_Project.pbix). You are welcome to explore my data modeling, DAX formulas, and dashboard mechanics.
+- The Power BI Video: [Download and watch the full E-commerce_Project.video here](https://github.com/Joseph-Chibueze-Portfolio/E-Performance-Analysis/blob/main/Screen%20Recording%202026-07-15%20223414.mp4). You are welcome to explore my data modeling, DAX formulas, and dashboard mechanics.
 
 ## 🖼️ Project Preview
-![E-commerce Dashboard](insert-your-image-link-here)
+![E-commerce Dashboard](https://github.com/Joseph-Chibueze-Portfolio/E-Performance-Analysis/blob/main/Screenshot%202026-07-15%20220821.png)
 
 > *Click the image above to view the dashboard.*
 
